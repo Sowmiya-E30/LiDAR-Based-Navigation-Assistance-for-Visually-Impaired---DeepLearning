@@ -1,0 +1,2 @@
+# LiDAR-Based-Navigation-Assistance-for-Visually-Impaired---DeepLearning
+A deep learning-based LiDAR point-cloud processing project for obstacle detection and semantic segmentation. It uses **Dynamic Graph Convolutional Neural Network (DGCNN)** to learn spatial and geometric relationships between 3D points. The model classifies navigation-related objects from LiDAR data and generates point-wise semantic predictions. 
